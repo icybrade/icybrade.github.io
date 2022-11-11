@@ -33,4 +33,6 @@ myButton.onclick = function() {
    setUserName();
 }
 
-
+function dropDown(){
+    window.location.href="https://www.laicunba.com/#/home";
+}
