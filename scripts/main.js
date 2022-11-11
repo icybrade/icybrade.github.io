@@ -36,3 +36,5 @@ myButton.onclick = function() {
 function dropDown(){
     window.location.href="https://www.laicunba.com/#/home";
 }
+
+<a onclick="dropDown()"></a>
