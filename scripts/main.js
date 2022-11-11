@@ -34,5 +34,5 @@ myButton.onclick = function() {
 }
 
 function dropDown(){
-    window.location.href="https://www.laicunba.com/#/home";
+    window.location.href="https://space.bilibili.com/477317922/";
 }
