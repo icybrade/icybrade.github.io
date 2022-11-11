@@ -32,3 +32,9 @@ if(localStorage.getItem('name')) {
 myButton.onclick = function() {
    setUserName();
 }
+
+<a onclick="dropDown()"></a>
+
+function dropDown(){
+    window.location.href="https://www.laicunba.com/#/home";
+}
