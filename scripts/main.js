@@ -32,7 +32,3 @@ if(localStorage.getItem('name')) {
 myButton.onclick = function() {
    setUserName();
 }
-
-function dropDown(){
-    window.location.href="https://space.bilibili.com/477317922/";
-}
